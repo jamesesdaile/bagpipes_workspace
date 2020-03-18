@@ -1,0 +1,8 @@
+pipes/
+filters/
+*.out
+*.err
+run_bagpipes.sh
+__pycache__/
+*.cat
+
